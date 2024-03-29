@@ -34,7 +34,7 @@
             "format": "switch",
             "required": false,
             "value": false,
-            "selected": false
+            "selected": true
         },
         {
             "id": "sorh_mtgr_mthrkh",
@@ -53,7 +53,8 @@
             "type": "boolean",
             "id": "is_more_button_enabled",
             "label": "عرض (زر الكل) في الصفحة الرئيسية",
-            "format": "switch"
+            "format": "switch",
+            "selected": true
         },
         {
             "type": "static",
@@ -87,7 +88,7 @@
             "format": "switch",
             "required": false,
             "value": true,
-            "selected": false
+            "selected": true
         },
         {
             "type": "boolean",
@@ -121,7 +122,7 @@
             "format": "switch",
             "required": false,
             "value": true,
-            "selected": false
+            "selected": true
         },
         {
             "type": "static",
@@ -196,7 +197,7 @@
             "format": "switch",
             "required": false,
             "value": false,
-            "selected": false
+            "selected": true
         },
         {
             "id": "image",
